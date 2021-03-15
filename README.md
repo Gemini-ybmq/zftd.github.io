@@ -1,11 +1,64 @@
+字符跳动公司简介
+一．公司名称：字符跳动
+二．公司标志：
+三．
+四．成员组成：
+名称	学号	擅长领域	照片	其它介绍
+蒋渝	2020112486	擅长组织人员合作，统筹策划目标，工程的准备和实行。		活泼乐观，工作负责，善于交际，待人友善。
+姚壮飞	2020112484	擅长分析、组织、整合资源，分配资源。		活泼开朗，热情大方，善于交际。
+
+五．组织架构：
+
+
+
+
+
+
+1.执行人：蒋渝
+2.策划与实行：
+组长：刘嘉怡
+组员：彭颖、吴亦婷
+3.市场调研：姚壮飞
+4.审核及售后：朱同飞
+
+  
+
+
+
+
+
+
+
+六．经营范围：农业AI数据分析与实景应用
+
+
+
+
+
+
+
+
+七．公司愿景：让每一个农民通过几个字符的跳动就能完成丰收
+
 # zftd.github.io 
 ##组织首页    
 
 #字符跳动
 
-公司标志：![图片1](https://user-images.githubusercontent.com/80244129/111142489-b6f9bd00-85bf-11eb-9a0f-e66fc26d596a.png)
+公司标志：
 
-公司成员：![$}B}TRXC0 W~Z`D`079N2LI](https://user-images.githubusercontent.com/80244129/111158213-bcacce00-85d2-11eb-9142-3e2d6c6a5051.png)
+
+
+
+
+
+![图片1](https://user-images.githubusercontent.com/80244129/111142489-b6f9bd00-85bf-11eb-9a0f-e66fc26d596a.png)
+
+公司成员：
+
+
+
+![$}B}TRXC0 W~Z`D`079N2LI](https://user-images.githubusercontent.com/80244129/111158213-bcacce00-85d2-11eb-9142-3e2d6c6a5051.png)
 
 ![HBGJQ5%N1ARME0(Z}@HD8DI](https://user-images.githubusercontent.com/80244129/111143380-b281d400-85c0-11eb-80e7-f9a122ba82da.png)
 
