@@ -1,4 +1,4 @@
-#节点代码
+# 节点代码
 
 #include <LoRaNow.h>
 
@@ -133,7 +133,7 @@ void onSleep()
 
 }
 
-#网关代码
+# 网关代码
 
 #include <LoRaNow.h>
 
@@ -546,7 +546,7 @@ void mqttloop() {
 
 }
 
-#搭建过程中遇到的一些问题
+# 搭建过程中遇到的一些问题
 
 1.esp32通过usb连接到电脑上后，arduino工具栏里的端口仍显示为灰色，无法上传代码至单片机。后经排查，发现缺少esp32的驱动程序。在安装完cp210xVCP驱动插件后，一切正常。
 
@@ -554,7 +554,7 @@ void mqttloop() {
 
 3.lora-node教程代码中，由于使用的是不同的温度传感器，温度计算公式也发生变化。在百度以及csdn社区中搜索，最后得到相关程序的具体计算公式。
 
-#示图
+# 示图
 
 ![T67C})QRM 7F$3J8B%KM 8D](https://user-images.githubusercontent.com/80244129/114301080-ac1a4580-9af5-11eb-815c-638be8fcc850.jpg)
 
